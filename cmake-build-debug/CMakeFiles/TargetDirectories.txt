@@ -1,0 +1,3 @@
+D:/Users/nickh/Desktop/a-stack-of-dishes-NootNoot750f/cmake-build-debug/CMakeFiles/a_stack_of_dishes_NootNoot750f.dir
+D:/Users/nickh/Desktop/a-stack-of-dishes-NootNoot750f/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Users/nickh/Desktop/a-stack-of-dishes-NootNoot750f/cmake-build-debug/CMakeFiles/rebuild_cache.dir
